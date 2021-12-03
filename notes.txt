@@ -1,0 +1,6 @@
+# This installation will include pandas and numpy
+$pip install streamlit
+
+# .gitignore file => specific to your project
+easkb-env/
+.vscode/
